@@ -1,0 +1,23 @@
+
+
+
+Actor:
+
+
+ https://public.tableau.com/app/profile/akshaykumar.halkude/viz/ActorDashboard/ActorDashboard?publish=yes
+
+
+
+Director:
+
+
+
+https://public.tableau.com/app/profile/akshaykumar.halkude/viz/Directordashboard/Directorsdashboard?publish=yes
+
+
+
+Movie:
+
+https://public.tableau.com/app/profile/akshaykumar.halkude/viz/Moviedashboard_16541802722080/Moviedashboard?publish=yes
+
+
